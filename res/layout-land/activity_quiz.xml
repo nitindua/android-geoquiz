@@ -30,6 +30,14 @@
     </LinearLayout>
 
     <Button 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cheat_button"
+        android:id="@+id/cheat_button" 
+        android:padding="10dp"
+        android:layout_gravity="bottom|center" />
+    
+    <Button 
     	android:layout_width="wrap_content"
     	android:layout_height="wrap_content"
     	android:padding="10dp"
